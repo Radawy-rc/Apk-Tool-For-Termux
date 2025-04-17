@@ -20,7 +20,7 @@ The script performs the following actions:
 
 1. Copy the script to your Termux:
    ```bash
-   curl -O https://github.com/Radawy-rc/Apk-Tool-For-Termux/blob/main/apk_tools.sh
+   git clone https://github.com/Radawy-rc/Apk-Tool-For-Termux.git
    ```
 
 2. Make the script executable:
